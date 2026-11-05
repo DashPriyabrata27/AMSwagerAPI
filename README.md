@@ -1,3 +1,5 @@
+---
+
 Author_Misattribution_Detection/
 │
 ├── backend/
@@ -56,6 +58,6 @@ Author_Misattribution_Detection/
 │
 ├── requirements.txt
 ├── .env
-├── .env.example
 ├── .gitignore
 └── README.md
+--- 
