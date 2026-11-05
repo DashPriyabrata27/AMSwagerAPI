@@ -1,0 +1,7 @@
+
+fastapi>=0.115.0,<1.0.0 # Web Framework
+uvicorn[standard]>=0.30.0,<1.0.0 # ASGI Server
+httpx>=0.27.0,<1.0.0 # HTTP Client — OpenAlex API communication
+pydantic>=2.7.0,<3.0.0 # Data Validation and Settings
+pydantic-settings>=2.2.1,<3.0.0 # Data Validation and Settings
+python-dotenv>=1.0.1,<2.0.0 # Environment Variable Management
